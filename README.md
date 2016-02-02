@@ -1,1 +1,10 @@
-# hello-world2
+#include
+
+int main(void)
+
+{
+for(....................
+...
+...
+..
+.
